@@ -34,11 +34,17 @@ import android.widget.Toast
 import android.graphics.drawable.GradientDrawable
 import android.graphics.drawable.ShapeDrawable
 import android.graphics.drawable.shapes.OvalShape
+import androidx.fragment.app.FragmentActivity
+
 
 class ProfileActivity : ComponentActivity() {
+
+
+
     override fun onCreate(savedInstanceState: Bundle?) { //main code
         super.onCreate(savedInstanceState)
         setContentView(R.layout.profile_activity)
+
 
     }//end of main code
 

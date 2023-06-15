@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="buttonColor">#FA0018</color>
+
+    <color name="bannerBackground">#FA0018</color>
+    <color name="bannerText">#FFFFFF</color>
 </resources>
